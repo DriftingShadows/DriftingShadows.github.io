@@ -1,0 +1,7 @@
+AUTH0_DOMAIN=https://dev-ptc3xub8.au.auth0.com
+AUTH0_REDIRECT_URI=https://driftingshadows.github.io
+# AUTH0_REDIRECT_URI=http://localhost:8000
+AUTH0_CLIENTID=RKiscrTPoNhQ1ML7K9DjwQX7I2T2yDag
+AUTH0_CLIENT_SECRET=ed_fosJ7A5tPhmVoHrQsWlQyM-PM5CRKhZmhnHTGHACtRR5gP5XpXehGFRVEJ-8D
+AUTH0_NAMESPACE=https://ptc-dev.ohmie.co
+API_BASE_URL=https://api.stg.ramdad.com
